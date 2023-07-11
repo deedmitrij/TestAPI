@@ -1,0 +1,58 @@
+{
+  "people": {
+    "1": {
+      "name": "Luke Skywalker",
+      "height": "172",
+      "mass": "77",
+      "hair_color": "blond",
+      "skin_color": "fair",
+      "eye_color": "blue",
+      "birth_year": "19BBY",
+      "gender": "male"
+    },
+    "2": {
+      "name": "Leia Organa",
+      "height": "150",
+      "mass": "49",
+      "hair_color": "brown",
+      "skin_color": "light",
+      "eye_color": "brown",
+      "birth_year": "19BBY",
+      "gender": "female"
+    }
+  },
+  "planets": {
+    "1": {
+      "name": "Tatooine",
+      "rotation_period": "23",
+      "orbital_period": "304",
+      "diameter": "10465",
+      "climate": "arid",
+      "gravity": "1 standard",
+      "terrain": "desert",
+      "population": "200000"
+    },
+    "2": {
+      "name": "Coruscant",
+      "rotation_period": "24",
+      "orbital_period": "368",
+      "diameter": "12240",
+      "climate": "temperate",
+      "gravity": "1 standard",
+      "terrain": "cityscape",
+      "population": "10000000000"
+    }
+  },
+  "starships": {
+    "1": {
+      "name": "X-wing",
+      "model": "T-65 X-wing",
+      "manufacturer": "Incom Corporation"
+    },
+    "2": {
+      "name": "Millennium Falcon",
+      "model": "YT-1300 light freighter",
+      "manufacturer": "Corellian Engineering Corporation"
+    }
+  }
+}
